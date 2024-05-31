@@ -1,6 +1,8 @@
 # GameSDL2
 Minesweeper hay dò mìn là trò chơi cổ điển mà nhiều người chơi đã chơi trên máy tính. Trò chơi bao gồm một bãi mìn gồm các ô vuông có thể chứa mìn, người chơi sẽ dựa vào các ô số xung quanh để dự đoán mìn.
+
 Trò chơi có 3 cấp độ: 
+
 Cơ bản: 9 x 9 và 10 mìn
 Trung bình: 16 x 16 và 40 mìn
 Khó: 20 x 20 và 99 mìn
