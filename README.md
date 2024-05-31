@@ -18,6 +18,8 @@ Bạn sử dụng các con số để xác định mìn, ví dụ nếu 
 
 Bạn phải thật cẩn thận và suy luận đúng đắn để có thể chiến thắng trò chơi.
 
+Hình ảnh bàn cơ bản trong trò chơi:
+
 ![Screenshot 2024-06-01 005335](https://github.com/Tuyen0712/GameSDL2/assets/144357652/42d1b996-c9c2-4c0e-b2c2-047dd4ebc7ba)
 
 
